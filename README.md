@@ -11,5 +11,6 @@ Work in Progress:
   * Special Abilities
   * Pokemon Type
 * Ability to view the price of the pokemon's cards
+* Look for additional bugs
 
 [Live Link](https://master.dpj0s4cpt0orn.amplifyapp.com/)
