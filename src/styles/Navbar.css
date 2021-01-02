@@ -1,0 +1,46 @@
+.container{
+    background-color: rgba(0, 0, 0, 0.15);
+    box-shadow: 2px 2px 4px black;
+    display: flex;
+    flex: 1;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.navBarItem{
+    flex: 3;
+}
+
+::placeholder{
+    color: black;
+}
+
+.navBarSearch{
+    flex: 1;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    align-self: center;
+    padding-right: 2%;
+    color: black;
+}
+
+.mainInput{
+    width: 100%;
+    padding: 12px 20px;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    font-size: 16px;
+    background-color: rgba(255, 255, 255, 0.3);
+}
+
+.mainText{
+    flex: 1;
+    color: black;
+    font-size: 25px;
+    margin-left: 2%;
+    margin-right: 2%;
+}
+
